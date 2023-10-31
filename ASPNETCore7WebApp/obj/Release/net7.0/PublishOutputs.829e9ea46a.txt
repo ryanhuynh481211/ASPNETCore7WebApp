@@ -1,0 +1,7 @@
+D:\DevTest\source\repos\ASPNETCore7WebApp\ASPNETCore7WebApp\ASPNETCore7WebApp\obj\Release\net7.0\PubTmp\Out\ASPNETCore7WebApp.exe
+D:\DevTest\source\repos\ASPNETCore7WebApp\ASPNETCore7WebApp\ASPNETCore7WebApp\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\DevTest\source\repos\ASPNETCore7WebApp\ASPNETCore7WebApp\ASPNETCore7WebApp\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\DevTest\source\repos\ASPNETCore7WebApp\ASPNETCore7WebApp\ASPNETCore7WebApp\obj\Release\net7.0\PubTmp\Out\ASPNETCore7WebApp.dll
+D:\DevTest\source\repos\ASPNETCore7WebApp\ASPNETCore7WebApp\ASPNETCore7WebApp\obj\Release\net7.0\PubTmp\Out\ASPNETCore7WebApp.deps.json
+D:\DevTest\source\repos\ASPNETCore7WebApp\ASPNETCore7WebApp\ASPNETCore7WebApp\obj\Release\net7.0\PubTmp\Out\ASPNETCore7WebApp.runtimeconfig.json
+D:\DevTest\source\repos\ASPNETCore7WebApp\ASPNETCore7WebApp\ASPNETCore7WebApp\obj\Release\net7.0\PubTmp\Out\ASPNETCore7WebApp.pdb
